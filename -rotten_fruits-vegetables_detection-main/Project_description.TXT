@@ -1,0 +1,24 @@
+Abstract:
+	
+	This project is an AI system for fruit and vegetable quality based on image recognition system using CNN. This CNN model predicts the images captured by the user to recognize if it's rotten or fresh.
+
+Tools and techniques used:
+*Python
+*Matplotlib
+*Numpy
+*Tensorflow
+*Keras
+*OpenCv
+*Anaconda 
+*Jupyter Notebook
+
+The classes that we worked on:
+*Fresh Apple/Rotten Apple
+*Fresh banana/Rotten banana
+*Fresh orange/Rotten orange
+*Fresh Tomato/Rotten Tomato
+
+
+
+ 
+
